@@ -1,4 +1,16 @@
-DATA: 08/03/2017
+# Aula 01
+# Data 09/08/2017
 
-1. O que s�o sistemas embarcados?
-S�o sistemas 
+1. O que são sistemas embarcados?
+  São sistemas computacionais mais simples que 
+  
+2. O que são sistemas microprocessados?
+
+3. Apresente aplicações de sistemas embarcados:
+  (a) Para a indústria automotiva;
+  (b) Para eletrodomésticos;
+  (c) Para automação industrial.
+  
+ 4. Cite arquiteturas possíveis e as diferenças entre elas.
+ 
+ 5. Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?

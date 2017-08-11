@@ -1,5 +1,5 @@
 1. Quais as diferenças entre os barramentos de dados e de endereços?
-	Os barramentos de dados se referem às portas I/O enquanto que os de endereços definem o destino na memória para os dados.
+Os barramentos de dados se referem às portas I/O enquanto que os de endereços definem o destino na memória para os dados.
 
 2. Quais são as diferenças entre as memórias RAM e ROM?
 	A memória ROM (Read-Only Memory) permite a gravação 

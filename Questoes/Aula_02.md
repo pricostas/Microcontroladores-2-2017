@@ -1,8 +1,8 @@
 1. Quais as diferenças entre os barramentos de dados e de endereços?
-Os barramentos de dados se referem às portas I/O enquanto que os de endereços definem o destino na memória para os dados.
+- Os barramentos de dados se referem às portas I/O enquanto que os de endereços definem o destino na memória para os dados.
 
 2. Quais são as diferenças entre as memórias RAM e ROM?
-	A memória ROM (Read-Only Memory) permite a gravação 
+- A memória ROM (Read-Only Memory) permite a gravação de dados na memória apenas uma vez, deixando os dados disponíveis apenas para leitura. Já na memória RAM (Random-Access Memory) os dados podem ser gravados e regravados, no entanto quando o computador é desligado os dados se perdem; é uma memória volátil.
 
 3. Considere o código abaixo:
 
@@ -22,6 +22,8 @@ int main(void)
 ```
 
 Para este código, responda: (a) A variável `i` é armazenada na memória RAM ou ROM? Por quê? (b) O programa compilado a partir deste código é armazenado na memória RAM ou ROM? Por quê?
+
+- a) 
 
 4. Quais são as diferenças, vantagens e desvantagens das arquiteturas Harvard e Von Neumann?
 

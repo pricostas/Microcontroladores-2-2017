@@ -1,5 +1,3 @@
-# Aula 01
-# Data 09/08/2017
 
 1. O que são sistemas embarcados?
   São sistemas computacionais mais simples que computadores de propósito geral, independentes e completos, cujo propósito é executar um procedimento específico pré-determinado. Geralmente ocorre a repetição desses procedimentos pelo usuário.

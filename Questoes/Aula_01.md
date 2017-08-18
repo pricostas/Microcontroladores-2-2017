@@ -11,10 +11,8 @@
 
 (a) Para a indústria automotiva;
       Por exemplo: módulos de controle de carros, controlando airbag, portas, janelas, assentos, luzes, etc.
-
 (b) Para eletrodomésticos;
       Por exemplo: as configurações da forma de processo em uma máquina de lavar, em smart TV's, em     
-
 (c) Para automação industrial.
       Por exemplo: controle de máquinas como braços mecatrônicos para manuseio do produto em um processo industrial.
       

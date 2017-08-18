@@ -6,6 +6,8 @@
 	(e) Somente inverter o bit mais significativo de `a`.
 	(f) Inverter o nibble mais significativo de `a`, e setar o nibble menos significativo de `a`. 
 
+
+
 2. Considerando a placa Launchpad do MSP430, escreva o código em C para piscar os dois LEDs ininterruptamente.
 
 3. Considerando a placa Launchpad do MSP430, escreva o código em C para piscar duas vezes os dois LEDs sempre que o usuário pressionar o botão.

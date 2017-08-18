@@ -1,17 +1,21 @@
 
 1. O que são sistemas embarcados?
 
-São sistemas computacionais mais simples que computadores de propósito geral, independentes e completos, cujo propósito é executar um procedimento específico pré-determinado. Geralmente ocorre a repetição desses procedimentos pelo usuário.
+    São sistemas computacionais mais simples que computadores de propósito geral, independentes e completos, cujo propósito é executar um procedimento específico pré-determinado. Geralmente ocorre a repetição desses procedimentos pelo usuário.
   
 2. O que são sistemas microprocessados?
-  São sistemas em que são utilizados microprocessadores para tomadas de decisão e cálculos em um dispositivo tecnológico. O microprocessador é um circuito integrado multifuncional programável, que aceita ou coleta dados para serem processados e disponibilizados na saída - de acordo com a programação e as funções em sua memória. 
+
+    São sistemas em que são utilizados microprocessadores para tomadas de decisão e cálculos em um dispositivo tecnológico. O microprocessador é um circuito integrado multifuncional programável, que aceita ou coleta dados para serem processados e disponibilizados na saída - de acordo com a programação e as funções em sua memória. 
 
 3. Apresente aplicações de sistemas embarcados:
-  (a) Para a indústria automotiva;
+
+(a) Para a indústria automotiva;
       Por exemplo: módulos de controle de carros, controlando airbag, portas, janelas, assentos, luzes, etc.
-  (b) Para eletrodomésticos;
+
+(b) Para eletrodomésticos;
       Por exemplo: as configurações da forma de processo em uma máquina de lavar, em smart TV's, em     
-  (c) Para automação industrial.
+
+(c) Para automação industrial.
       Por exemplo: controle de máquinas como braços mecatrônicos para manuseio do produto em um processo industrial.
       
  4. Cite arquiteturas possíveis e as diferenças entre elas.
